@@ -1,7 +1,7 @@
 Project Breathe
 ===============
 
-Project Breathe is a project to keep track of the speed-related improvements in Semplice 6 and later.
+Project Breathe is a project to keep track of the speed and usability related improvements in Semplice 6 and later.
 
 What you mean with 'speed'?
 ---------------------------
